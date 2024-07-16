@@ -1,5 +1,3 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
         System.out.println("Nuestro café ha abierto, Ernesto es nuestro único mesero y llegó a su jornada de hoy");
